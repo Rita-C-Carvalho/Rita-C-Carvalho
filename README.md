@@ -1,5 +1,5 @@
-## Olá pessoal, meu nome é Rita Carvalho.
-### Seja bem vindo(a) ao meu perfil!
+## Olá pessoal! Seja bem vindo(a) ao meu perfil!.
+
 
 
 - 💻 Trabalhando em projetos pessoais com front-end.

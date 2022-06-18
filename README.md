@@ -1,4 +1,6 @@
-##Olá pessoal, seja bem vindo(a) ao meu perfil!
+## Olá pessoal, meu nome é Rita Carvalho
+## Seja bem vindo(a) ao meu perfil!
+
 
 
 <!--

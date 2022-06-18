@@ -26,4 +26,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
 ##
   
   <a href="https://www.linkedin.com/in/rita-carvalho-053305229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   ![Snake animation](https://github.com/Rita-C-Carvalho/Rita-C-Carvalho/blob/output/github-contribution-grid-snake.svg)
  

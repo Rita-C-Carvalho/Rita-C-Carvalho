@@ -1,5 +1,5 @@
 ## Olá pessoal, meu nome é Rita Carvalho
-## Seja bem vindo(a) ao meu perfil!
+### Seja bem vindo(a) ao meu perfil!
 
 
 

@@ -21,6 +21,9 @@
   <img align="center" alt="Rita-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rita-NodeJS" height="30" width="40"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="right" alt="Rita-pic" height="150" style="border-radius:50px;" src="https://scontent.fcgh7-1.fna.fbcdn.net/v/t39.30808-6/289279938_10227985351328674_8554161870901963579_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGYlF05UPu2MfaLFwYF8fYMdGKy8IUJCs90YrLwhQkKzwM39EPFUTvbZsiJ2sc6Rzk&_nc_ohc=GcRHtCZY_bsAX-2ySDt&_nc_ht=scontent.fcgh7-1.fna&oh=00_AT-Wi7SxdZlEvoWijY7hTbxPtBgRk6pzbfVzCiE4YK65yQ&oe=62B3C04D">
 </div>
+  
+##
+  
+  <a href="https://www.linkedin.com/in/rita-carvalho-053305229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  

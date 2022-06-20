@@ -22,7 +22,7 @@
   <img align="center" alt="Rita-NodeJS" height="30" width="40"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-   <img src="https://images2.imgbox.com/6d/32/9yqBepQX_o.png" align="right" alt="Rita-pic" height="120" styele="border-radius:50%">
+   <img src="https://images2.imgbox.com/04/ba/75P9VHw5_o.png" align="right" alt="Rita-pic" height="120" styele="border-radius:50%">
   
 ##
   

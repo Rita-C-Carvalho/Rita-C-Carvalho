@@ -3,7 +3,7 @@
 
 
 - 💻 Trabalhando em projetos pessoais com front-end.
-- 🤓 Estudando React JS.
+- 🤓 Estudando MySQL.
 
 
 

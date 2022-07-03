@@ -3,7 +3,8 @@
 
 
 - 💻 Trabalhando em projetos pessoais com front-end.
-- 🤓 Estudando MySQL.
+- 🤓 Estudando<img align="center" alt="Java" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 
 
@@ -21,6 +22,10 @@
   <img align="center" alt="Rita-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rita-NodeJS" height="30" width="40"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="MySQL" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="Java" height="40" width="50" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
    <img src="https://images2.imgbox.com/e3/cd/mK1T9VsI_o.png" align="right" alt="Rita-pic" height="100" styele="border-radius:50%">
   

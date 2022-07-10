@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 <img align="center" alt="Java" height="40" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
-   <img src="https://images2.imgbox.com/e3/cd/mK1T9VsI_o.png" align="right" alt="Rita-pic" height="100" styele="border-radius:50%">
+   <img src= "https://thumbs2.imgbox.com/34/11/R9Hzednr_t.png"  align="right" alt="cafe-pic" height="100" styele="border-radius:50%">
   
 ##
   

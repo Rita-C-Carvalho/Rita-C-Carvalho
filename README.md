@@ -3,9 +3,7 @@
 
 
 - 💻 Trabalhando em projetos pessoais com front-end.
-- 🤓 Estudando<img align="center" alt="Java" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
+- 🤓 Estudando Python
 
 
 <div align="center" style="display: inline_block">

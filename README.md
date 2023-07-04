@@ -4,6 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=f7a29e&&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!;Full+Stack+Developer;Systems+analysis+and+development+student;Love+to+learn+new+stuffs...&hearts;++"></a>
 </p>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 
 
 

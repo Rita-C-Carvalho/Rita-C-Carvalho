@@ -1,8 +1,7 @@
 # Hi, I'm Rita!
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=
-Systems analysis and development student;++;Full-satck developer,;Computer+Science+Student,;Love+to+learn+new+stuffs..&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=f8efd4&&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+learn+new+stuffs,;Full+Stack+Developer.;Be+Welcome+:)"></a>
 </p>
 
 

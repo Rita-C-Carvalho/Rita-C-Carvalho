@@ -3,13 +3,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=f7a29e&&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!;Full+Stack+Developer;Systems+analysis+and+development+student;Love+to+learn+new+stuffs...&hearts;++"></a>
 </p>
-
-## 👇About me
+## ✨ About me
 
 <a href="https://imgbox.com/AKZ0MUM8" target="_blank"><img src="https://images2.imgbox.com/2c/3c/AKZ0MUM8_o.png" alt="image host" width="150" align="right"/></a>
 - 🧠 I'm currently studying Java.
-- 💻 I'm working with front-end personal projects.
-- 😻 Fun fact about me: I love animals, especially cats.
+- 👩‍💻 I'm working with front-end personal projects.
+- 🐈‍⬛ Fun fact about me: I love animals, especially cats.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 

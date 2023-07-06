@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=f7a29e&&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome!;Full+Stack+Developer;Systems+analysis+and+development+student;Love+to+learn+new+stuffs...&hearts;++"></a>
 </p>
 
-
 ## 👇About me
 
 <a href="https://imgbox.com/AKZ0MUM8" target="_blank"><img src="https://images2.imgbox.com/2c/3c/AKZ0MUM8_o.png" alt="image host" width="150" align="right"/></a>
@@ -14,7 +13,6 @@
 - 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <h3>Back-End Development:</h3>
 <div align="left">
@@ -24,6 +22,13 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white">
 </div>
 
+<h3>Front-End Development:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+</div>
 <h3>Database:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">

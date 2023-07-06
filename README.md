@@ -35,16 +35,30 @@
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
-</div>  
+</div>
+
+<h3>Tools:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
+  
+</div>
+
+
 ##
   <div align="center" style="display: inline_block">
   <a href="https://github.com/Rita-C-Carvalho">
   <img height="80em" src="https://github-readme-stats.vercel.app/api?username=rita-c-carvalho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita-c-carvalho&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  
-  <a href= "https://www.linkedin.com/in/rita-carvalho-fullstackdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-                                                                                                                                                                                                    ![Snake animation](https://github.com/Rita-C-Carvalho/Rita-C-Carvalho/blob/output/github-contribution-grid-snake.svg)
+
+                                                                                                                                                                                                    
 
 
 

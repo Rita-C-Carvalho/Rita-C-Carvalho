@@ -8,7 +8,7 @@
 ## 👇About me
 
 
-- ☕ I'm currently studying Java.
+- 🧠 I'm currently studying Java ☕.
 - 💻 I'm working with front-end personal projects.
 - 😻 Fun fact about me: I love animals, especially cats.
 - 

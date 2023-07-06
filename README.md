@@ -54,6 +54,14 @@
 <a href="https://www.linkedin.com/in/rita-carvalho-fullstackdeveloper/">
   <img src="https://img.shields.io/badge/-Rita Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
+<a href="mailto:ritynha031186@hotmail.com">
+  <img src="https://img.shields.io/badge/-Outlook-blue?style=flat-square&logoColor=white&link=mailto:ritynha031186@hotmail.com)]">
+</a>
+<br>
+<br>
+  
+[![GitHub Rita-C-Carvalho]( https://img.shields.io/github/followers/Rita-C-Carvalho?label=follow&style=social)](https://github.com/Rita-C-Carvalho)
+</div>
 
                                                                                                                                                                                                     
 
